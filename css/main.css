@@ -2,7 +2,7 @@ body {
     background-color: #8e0099;
 }
 
-@media (min-width: 675px), (min-width: 999px), (min-width: 1280px) {
+@media screen (min-width: 675px), (min-width: 999px), (min-width: 1280px) {
     body {
         background-color: #2f437f;
     }
