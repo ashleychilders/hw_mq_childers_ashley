@@ -13,3 +13,5 @@ https://github.com/ashleychilders/hw_mq_childers_ashley
 1.) With this assignment I felt really comfortable using git. Compared to last week, I complete d this assignment much quicker and I think most of that had to do with feeling comfortable using git.
 
 2.) This is the first course in the program that has touched on how to set up a site with responsive design which I am very, very interested in as all web designers should be.  
+
+3.) I debated on whether to add screen after media or leaving it blank to mean all. I ended up going with leaving it blank for all devices. 
