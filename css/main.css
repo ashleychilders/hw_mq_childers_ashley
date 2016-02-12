@@ -2,19 +2,19 @@ body {
     background-color: #8e0099;
 }
 
-@media screen (min-width: 675px) {
+@media (min-width: 675px) {
     body {
         background-color: #2f437f;
     }
 }
 
-@media screen (min-width: 999px) {
+@media (min-width: 999px) {
     body {
         background-color: #ccffe6;
     }
 }
 
-@media screen (min-width: 1280px) {
+@media (min-width: 1280px) {
     body {
         background-color: #ff0000;
     }
