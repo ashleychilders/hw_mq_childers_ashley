@@ -2,7 +2,7 @@ body {
     backdground-color: #f48916;
 }
 
-@media (max-width: 1080px), (max-width: 550px), (max-width: 400px) {
+@media screen (max-width: 1080px), (max-width: 550px), (max-width: 400px) {
     body {
         background-color: #ffb41e;
     }
