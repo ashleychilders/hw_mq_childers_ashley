@@ -6,7 +6,9 @@ https://github.com/ashleychilders/hw_mq_childers_ashley
 -  http://www.2createawebsite.com/build/hex-colors.html
 	- I used this site to choose body background colors.
 - https://css-tricks.com/css-media-queries/
-    - I came across this article when doing additional research about media queries. It was helpful with understanding media query formatting in CSS.  
+    - I came across this article when doing additional research about media queries. It was helpful with understanding media query formatting in CSS.
+- http://www.w3schools.com/css/css_rwd_mediaqueries.asp
+    - I came across this when searching for ways to properly word media queries and used the format found on here to format mine. 
 
 **Comments**
 
@@ -14,4 +16,4 @@ https://github.com/ashleychilders/hw_mq_childers_ashley
 
 2.) This is the first course in the program that has touched on how to set up a site with responsive design which I am very, very interested in as all web designers should be.  
 
-3.) I debated on whether to add screen after media or leaving it blank to mean all. I ended up going with leaving it blank for all devices. 
+3.) I debated on whether to add screen after media or leave it blank, I decided to go with "@media screen only and".
