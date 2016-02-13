@@ -1,7 +1,7 @@
-##Link to Assignment on GitHub##
+## Link to Assignment on GitHub
 https://github.com/ashleychilders/hw_mq_childers_ashley
 
-###Resources###
+### Resources
 
 -  http://www.2createawebsite.com/build/hex-colors.html
 	- I used this site to choose body background colors.
