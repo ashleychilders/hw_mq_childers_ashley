@@ -12,7 +12,7 @@ https://github.com/ashleychilders/hw_mq_childers_ashley
 
 **Comments**
 
-1.) With this assignment I felt really comfortable using git. Compared to last week, I complete d this assignment much quicker and I think most of that had to do with feeling comfortable using git.
+1.) With this assignment I felt really comfortable using git. Compared to last week, I completed this assignment much faster and I think it has to do with understanding git better. 
 
 2.) This is the first course in the program that has touched on how to set up a site with responsive design which I am very, very interested in as all web designers should be.  
 
